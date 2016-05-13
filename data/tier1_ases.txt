@@ -1,0 +1,21 @@
+AT&T[10]    AS7018
+Cogent Communications (formerly PSINet)[11] * IPv4 AS174
+CenturyLink (formerly Qwest)[12]	AS209
+Deutsche Telekom[13]	AS3320
+Global Telecom & Technology (GTT) (formerly Tinet & nLayer)[14]	AS3257
+KPN International[15]	AS286
+Level 3 Communications (formerly Level 3 and Global Crossing)[16][17]	AS3356
+Level 3 Communications (formerly Level 3 and Global Crossing)[16][17]	AS3549
+Level 3 Communications (formerly Level 3 and Global Crossing)[16][17]	AS1
+NTT Communications (America) (formerly Verio)[18]	AS2914
+Orange (OpenTransit)[19]	AS5511
+Sprint[20]	AS1239
+Tata Communications (America) (Acquired Teleglobe)[21]	AS6453
+Telecom Italia Sparkle (Seabone)[22]	AS6762
+Telefonica Global Solutions[23]	AS12956
+TeliaSonera International Carrier[24]	AS1299
+Verizon Enterprise Solutions (formerly UUNET)[25][26][27]	AS701
+Verizon Enterprise Solutions (formerly UUNET)[25][26][27]	AS702
+Verizon Enterprise Solutions (formerly UUNET)[25][26][27]	AS703
+XO Communications[28]	AS2828
+Zayo Group (formerly AboveNet)[29]	AS6461
