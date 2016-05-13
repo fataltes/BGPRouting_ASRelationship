@@ -4,13 +4,13 @@ This is the github repository for our final FCN project "Finding Relationships b
 
 To setup this project you need to follow the instructions:
 1. Fast Run
-1.1. Make sure you have installed python 2.7 on your computer
-1.2. Download the repository and run the two separate files "relationship_finder.py" and "relationship_finder_tier1.py" using the command "python <filename>.py"
-1.3. The output for relationship_finder.py gives you the information before adding Tier1 ASes and the output for relationship_finder_tier1.py gives you the information after that. Below you can see some of these informations:
-1.3.1. Number of ASes that we had and Number of trace routes between them
-1.3.2. The accuracy of finding p2p relationship
-1.3.3. The accuracy of finding p2c relationship
-1.3.4. The confusion matrix for p2p and p2c Relationships
+  1.1. Make sure you have installed python 2.7 on your computer
+  1.2. Download the repository and run the two separate files "relationship_finder.py" and "relationship_finder_tier1.py" using the command "python <filename>.py"
+  1.3. The output for relationship_finder.py gives you the information before adding Tier1 ASes and the output for relationship_finder_tier1.py gives you the information after that. Below you can see some of these informations:
+    1.3.1. Number of ASes that we had and Number of trace routes between them
+    1.3.2. The accuracy of finding p2p relationship
+    1.3.3. The accuracy of finding p2c relationship
+    1.3.4. The confusion matrix for p2p and p2c Relationships
 
 2. Adding your own trace routes
 2.1. Go to "https://atlas.ripe.net"
